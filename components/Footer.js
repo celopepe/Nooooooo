@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         <p className="description">
-          <code>Contract: 0x000000000000000000000000000000000000dEaD </code>
+          <code>Token: 0x156aFb4345C7E0D82B843ca29804E8908900bdB8 </code>
         </p>
       </footer>
     </>

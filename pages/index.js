@@ -12,7 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
-  <iframe width="110" height="200" src="https://www.myinstants.com/instant/darth-vader-noooooooo-94359/embed/" frameborder="0" scrolling="no"></iframe>
+        <img src="/logo-netlify.svg" />
+        <iframe width="110" height="200" src="https://www.myinstants.com/instant/darth-vader-noooooooo-94359/embed/" frameborder="0" scrolling="no"></iframe>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>

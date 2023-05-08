@@ -12,11 +12,6 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
-             <style>
-             .vader {
-              max-width: 100%;
-              }
-             </style>
         <img src="/b2753328-1f88-4e64-ac9e-4c7f85a79bc4.jpg" class="vader" />
         <iframe width="110" height="200" src="https://www.myinstants.com/instant/darth-vader-noooooooo-94359/embed/" frameborder="0" scrolling="no"></iframe>
         <p className="description">

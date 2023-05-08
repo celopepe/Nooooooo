@@ -17,6 +17,8 @@ export default function Home() {
           <code>Contract: </code>
         </p>
       </main>
+    
+    <Footer />
 
     </div>
   )

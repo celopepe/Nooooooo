@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Noooooooo!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="public/626-6268258_calling-him-scruffy-looking-but-through-a-gutsy.png" />
       </Head>
 
       <main>
